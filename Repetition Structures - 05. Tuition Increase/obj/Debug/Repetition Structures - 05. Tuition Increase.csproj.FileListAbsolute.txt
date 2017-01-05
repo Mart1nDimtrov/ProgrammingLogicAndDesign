@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Tuition Increase\bin\Debug\Tuition Increase.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Tuition Increase\obj\Debug\Tuition Increase.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Tuition Increase\obj\Debug\Tuition Increase.pdb

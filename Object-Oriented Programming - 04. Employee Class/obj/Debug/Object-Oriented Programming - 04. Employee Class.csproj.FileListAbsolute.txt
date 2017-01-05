@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 04. Employee Class\bin\Debug\Object_Oriented_Programming___04.Employee_Class.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 04. Employee Class\bin\Debug\Object_Oriented_Programming___04.Employee_Class.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 04. Employee Class\bin\Debug\Object_Oriented_Programming___04.Employee_Class.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 04. Employee Class\obj\Debug\Object-Oriented Programming - 04. Employee Class.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 04. Employee Class\obj\Debug\Object_Oriented_Programming___04.Employee_Class.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 04. Employee Class\obj\Debug\Object_Oriented_Programming___04.Employee_Class.pdb

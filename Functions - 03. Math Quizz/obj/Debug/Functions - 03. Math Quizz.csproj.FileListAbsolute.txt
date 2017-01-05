@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 03. Math Quizz\bin\Debug\Functions___03.Math_Quizz.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 03. Math Quizz\bin\Debug\Functions___03.Math_Quizz.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 03. Math Quizz\bin\Debug\Functions___03.Math_Quizz.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 03. Math Quizz\obj\Debug\Functions - 03. Math Quizz.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 03. Math Quizz\obj\Debug\Functions___03.Math_Quizz.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 03. Math Quizz\obj\Debug\Functions___03.Math_Quizz.pdb

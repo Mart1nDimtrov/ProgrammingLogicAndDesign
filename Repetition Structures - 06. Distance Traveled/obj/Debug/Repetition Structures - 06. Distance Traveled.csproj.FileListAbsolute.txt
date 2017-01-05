@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Distance Traveled\bin\Debug\Distance Traveled.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Distance Traveled\obj\Debug\Distance Traveled.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Distance Traveled\obj\Debug\Distance Traveled.pdb

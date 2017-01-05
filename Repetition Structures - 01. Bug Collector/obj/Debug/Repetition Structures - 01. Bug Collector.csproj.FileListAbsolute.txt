@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Bug Collector\bin\Debug\Bug Collector.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Bug Collector\obj\Debug\Bug Collector.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Bug Collector\obj\Debug\Bug Collector.pdb

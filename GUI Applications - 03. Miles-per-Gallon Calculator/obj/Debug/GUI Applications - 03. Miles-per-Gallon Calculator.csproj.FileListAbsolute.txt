@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\bin\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\bin\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\bin\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\obj\Debug\GUI Applications - 03. Miles-per-Gallon Calculator.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\obj\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.Form1.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\obj\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.Properties.Resources.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\obj\Debug\GUI Applications - 03. Miles-per-Gallon Calculator.csproj.GenerateResource.Cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\obj\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 03. Miles-per-Gallon Calculator\obj\Debug\GUI_Applications___03.Miles_per_Gallon_Calculator.pdb

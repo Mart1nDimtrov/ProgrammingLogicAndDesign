@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Budget Analysis\bin\Debug\Budget Analysis.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Budget Analysis\bin\Debug\Budget Analysis.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Budget Analysis\bin\Debug\Budget Analysis.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Budget Analysis\obj\Debug\Budget Analysis.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Budget Analysis\obj\Debug\Budget Analysis.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Budget Analysis\obj\Debug\Budget Analysis.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Budget Analysis\bin\Debug\Budget Analysis.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Budget Analysis\obj\Debug\Budget Analysis.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Budget Analysis\obj\Debug\Budget Analysis.pdb

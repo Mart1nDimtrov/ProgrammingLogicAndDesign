@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 06. Kinetic Engergy\bin\Debug\Functions___06.Kinetic_Engergy.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 06. Kinetic Engergy\bin\Debug\Functions___06.Kinetic_Engergy.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 06. Kinetic Engergy\bin\Debug\Functions___06.Kinetic_Engergy.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 06. Kinetic Engergy\obj\Debug\Functions - 06. Kinetic Engergy.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 06. Kinetic Engergy\obj\Debug\Functions___06.Kinetic_Engergy.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 06. Kinetic Engergy\obj\Debug\Functions___06.Kinetic_Engergy.pdb

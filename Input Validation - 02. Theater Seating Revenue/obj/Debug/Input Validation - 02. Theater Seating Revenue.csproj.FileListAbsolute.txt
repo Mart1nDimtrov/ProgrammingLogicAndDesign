@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 02. Theater Seating Revenue\bin\Debug\Input_Validation___02.Theater_Seating_Revenue.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 02. Theater Seating Revenue\bin\Debug\Input_Validation___02.Theater_Seating_Revenue.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 02. Theater Seating Revenue\bin\Debug\Input_Validation___02.Theater_Seating_Revenue.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 02. Theater Seating Revenue\obj\Debug\Input Validation - 02. Theater Seating Revenue.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 02. Theater Seating Revenue\obj\Debug\Input_Validation___02.Theater_Seating_Revenue.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 02. Theater Seating Revenue\obj\Debug\Input_Validation___02.Theater_Seating_Revenue.pdb

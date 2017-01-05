@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 05. Charge Account Validation\bin\Debug\Sorting___05.Charge_Account_Validation.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 05. Charge Account Validation\bin\Debug\Sorting___05.Charge_Account_Validation.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 05. Charge Account Validation\bin\Debug\Sorting___05.Charge_Account_Validation.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 05. Charge Account Validation\obj\Debug\Sorting___05.Charge_Account_Validation.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 05. Charge Account Validation\obj\Debug\Sorting___05.Charge_Account_Validation.pdb

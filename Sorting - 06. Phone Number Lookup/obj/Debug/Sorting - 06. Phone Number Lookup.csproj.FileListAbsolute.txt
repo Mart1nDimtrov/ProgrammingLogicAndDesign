@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 06. Phone Number Lookup\bin\Debug\Sorting___06.Phone_Number_Lookup.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 06. Phone Number Lookup\bin\Debug\Sorting___06.Phone_Number_Lookup.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 06. Phone Number Lookup\bin\Debug\Sorting___06.Phone_Number_Lookup.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 06. Phone Number Lookup\obj\Debug\Sorting - 06. Phone Number Lookup.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 06. Phone Number Lookup\obj\Debug\Sorting___06.Phone_Number_Lookup.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 06. Phone Number Lookup\obj\Debug\Sorting___06.Phone_Number_Lookup.pdb

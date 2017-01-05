@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 01. Sorted Golf Scores\bin\Debug\Sorting___01.Sorted_Golf_Scores.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 01. Sorted Golf Scores\obj\Debug\Sorting - 01. Sorted Golf Scores.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 01. Sorted Golf Scores\bin\Debug\Sorting___01.Sorted_Golf_Scores.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 01. Sorted Golf Scores\bin\Debug\Sorting___01.Sorted_Golf_Scores.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 01. Sorted Golf Scores\obj\Debug\Sorting___01.Sorted_Golf_Scores.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 01. Sorted Golf Scores\obj\Debug\Sorting___01.Sorted_Golf_Scores.pdb

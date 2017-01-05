@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 03. Fat Gram Calculator\bin\Debug\Input_Validation___03.Fat_Gram_Calculator.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 03. Fat Gram Calculator\bin\Debug\Input_Validation___03.Fat_Gram_Calculator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 03. Fat Gram Calculator\bin\Debug\Input_Validation___03.Fat_Gram_Calculator.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 03. Fat Gram Calculator\obj\Debug\Input Validation - 03. Fat Gram Calculator.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 03. Fat Gram Calculator\obj\Debug\Input_Validation___03.Fat_Gram_Calculator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 03. Fat Gram Calculator\obj\Debug\Input_Validation___03.Fat_Gram_Calculator.pdb

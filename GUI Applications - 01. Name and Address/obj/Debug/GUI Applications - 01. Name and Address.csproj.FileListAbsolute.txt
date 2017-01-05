@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\bin\Debug\GUI_Applications___01.Name_and_Address.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\bin\Debug\GUI_Applications___01.Name_and_Address.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\bin\Debug\GUI_Applications___01.Name_and_Address.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\obj\Debug\GUI Applications - 01. Name and Address.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\obj\Debug\GUI_Applications___01.Name_and_Address.Form1.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\obj\Debug\GUI_Applications___01.Name_and_Address.Properties.Resources.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\obj\Debug\GUI Applications - 01. Name and Address.csproj.GenerateResource.Cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\obj\Debug\GUI_Applications___01.Name_and_Address.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 01. Name and Address\obj\Debug\GUI_Applications___01.Name_and_Address.pdb

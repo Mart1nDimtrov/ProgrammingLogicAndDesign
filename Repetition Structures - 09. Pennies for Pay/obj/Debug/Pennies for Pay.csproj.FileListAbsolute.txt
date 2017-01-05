@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Pennies for Pay\bin\Debug\Pennies for Pay.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Pennies for Pay\bin\Debug\Pennies for Pay.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Pennies for Pay\bin\Debug\Pennies for Pay.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Pennies for Pay\obj\Debug\Pennies for Pay.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Pennies for Pay\obj\Debug\Pennies for Pay.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Pennies for Pay\obj\Debug\Pennies for Pay.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Pennies for Pay\bin\Debug\Pennies for Pay.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Pennies for Pay\obj\Debug\Pennies for Pay.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Pennies for Pay\obj\Debug\Pennies for Pay.pdb

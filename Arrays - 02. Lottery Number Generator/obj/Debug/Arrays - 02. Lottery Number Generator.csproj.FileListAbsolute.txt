@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 02. Lottery Number Generator\bin\Debug\Arrays___02.Lottery_Number_Generator.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 02. Lottery Number Generator\bin\Debug\Arrays___02.Lottery_Number_Generator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 02. Lottery Number Generator\bin\Debug\Arrays___02.Lottery_Number_Generator.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 02. Lottery Number Generator\obj\Debug\Arrays - 02. Lottery Number Generator.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 02. Lottery Number Generator\obj\Debug\Arrays___02.Lottery_Number_Generator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 02. Lottery Number Generator\obj\Debug\Arrays___02.Lottery_Number_Generator.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 06. Ackermann’s Function\bin\Debug\Recursion___06.Ackermann_s_Function.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 06. Ackermann’s Function\bin\Debug\Recursion___06.Ackermann_s_Function.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 06. Ackermann’s Function\bin\Debug\Recursion___06.Ackermann_s_Function.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 06. Ackermann’s Function\obj\Debug\Recursion - 06. Ackermann’s Function.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 06. Ackermann’s Function\obj\Debug\Recursion___06.Ackermann_s_Function.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 06. Ackermann’s Function\obj\Debug\Recursion___06.Ackermann_s_Function.pdb

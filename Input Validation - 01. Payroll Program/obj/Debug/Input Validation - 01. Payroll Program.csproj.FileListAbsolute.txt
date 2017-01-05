@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 01. Payroll Program\bin\Debug\Input_Validation___01.Payroll_Program.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 01. Payroll Program\bin\Debug\Input_Validation___01.Payroll_Program.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 01. Payroll Program\bin\Debug\Input_Validation___01.Payroll_Program.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 01. Payroll Program\obj\Debug\Input Validation - 01. Payroll Program.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 01. Payroll Program\obj\Debug\Input_Validation___01.Payroll_Program.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 01. Payroll Program\obj\Debug\Input_Validation___01.Payroll_Program.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 05. Charge Account Validation\bin\Debug\Arrays___05.Charge_Account_Validation.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 05. Charge Account Validation\bin\Debug\Arrays___05.Charge_Account_Validation.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 05. Charge Account Validation\bin\Debug\Arrays___05.Charge_Account_Validation.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 05. Charge Account Validation\obj\Debug\Arrays - 05. Charge Account Validation.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 05. Charge Account Validation\obj\Debug\Arrays___05.Charge_Account_Validation.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 05. Charge Account Validation\obj\Debug\Arrays___05.Charge_Account_Validation.pdb

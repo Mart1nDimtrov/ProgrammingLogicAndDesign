@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 02. Feet to Inches\bin\Debug\Functions___02.Feet_to_Inches.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 02. Feet to Inches\bin\Debug\Functions___02.Feet_to_Inches.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 02. Feet to Inches\bin\Debug\Functions___02.Feet_to_Inches.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 02. Feet to Inches\obj\Debug\Functions___02.Feet_to_Inches.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 02. Feet to Inches\obj\Debug\Functions___02.Feet_to_Inches.pdb

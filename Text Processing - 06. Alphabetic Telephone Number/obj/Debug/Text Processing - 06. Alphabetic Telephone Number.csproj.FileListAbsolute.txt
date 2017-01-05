@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 06. Alphabetic Telephone Number\bin\Debug\Text_Processing___06.Alphabetic_Telephone_Number.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 06. Alphabetic Telephone Number\bin\Debug\Text_Processing___06.Alphabetic_Telephone_Number.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 06. Alphabetic Telephone Number\bin\Debug\Text_Processing___06.Alphabetic_Telephone_Number.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 06. Alphabetic Telephone Number\obj\Debug\Text Processing - 06. Alphabetic Telephone Number.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 06. Alphabetic Telephone Number\obj\Debug\Text_Processing___06.Alphabetic_Telephone_Number.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 06. Alphabetic Telephone Number\obj\Debug\Text_Processing___06.Alphabetic_Telephone_Number.pdb

@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Pennies for Pay\bin\Debug\Pennies for Pay.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Pennies for Pay\obj\Debug\Pennies for Pay.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Pennies for Pay\obj\Debug\Pennies for Pay.pdb

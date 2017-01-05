@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Average Rainfall\bin\Debug\Average Rainfall.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Average Rainfall\obj\Debug\Average Rainfall.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Average Rainfall\obj\Debug\Average Rainfall.pdb

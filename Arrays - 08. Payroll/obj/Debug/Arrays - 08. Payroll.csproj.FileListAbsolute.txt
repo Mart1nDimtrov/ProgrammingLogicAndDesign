@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 08. Payroll\bin\Debug\Arrays___08.Payroll.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 08. Payroll\bin\Debug\Arrays___08.Payroll.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 08. Payroll\bin\Debug\Arrays___08.Payroll.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 08. Payroll\obj\Debug\Arrays - 08. Payroll.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 08. Payroll\obj\Debug\Arrays___08.Payroll.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 08. Payroll\obj\Debug\Arrays___08.Payroll.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Function - 07. Test Average and Grade\bin\Debug\Function___07.Test_Average_and_Grade.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Function - 07. Test Average and Grade\bin\Debug\Function___07.Test_Average_and_Grade.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Function - 07. Test Average and Grade\bin\Debug\Function___07.Test_Average_and_Grade.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Function - 07. Test Average and Grade\obj\Debug\Function - 07. Test Average and Grade.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Function - 07. Test Average and Grade\obj\Debug\Function___07.Test_Average_and_Grade.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Function - 07. Test Average and Grade\obj\Debug\Function___07.Test_Average_and_Grade.pdb

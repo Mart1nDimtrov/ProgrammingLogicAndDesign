@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 01. Recursive Multiplication\bin\Debug\Recursion___01.Recursive_Multiplication.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 01. Recursive Multiplication\bin\Debug\Recursion___01.Recursive_Multiplication.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 01. Recursive Multiplication\bin\Debug\Recursion___01.Recursive_Multiplication.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 01. Recursive Multiplication\obj\Debug\Recursion - 01. Recursive Multiplication.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 01. Recursive Multiplication\obj\Debug\Recursion___01.Recursive_Multiplication.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 01. Recursive Multiplication\obj\Debug\Recursion___01.Recursive_Multiplication.pdb

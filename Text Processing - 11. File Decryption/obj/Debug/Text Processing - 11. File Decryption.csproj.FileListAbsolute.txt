@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 11. File Decryption\bin\Debug\Text_Processing___11.File_Decryption.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 11. File Decryption\bin\Debug\Text_Processing___11.File_Decryption.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 11. File Decryption\bin\Debug\Text_Processing___11.File_Decryption.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 11. File Decryption\obj\Debug\Text_Processing___11.File_Decryption.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 11. File Decryption\obj\Debug\Text_Processing___11.File_Decryption.pdb

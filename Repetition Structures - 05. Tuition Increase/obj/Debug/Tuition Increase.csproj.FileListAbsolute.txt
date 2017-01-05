@@ -1,0 +1,8 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Tuition Increase\bin\Debug\Tuition Increase.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Tuition Increase\bin\Debug\Tuition Increase.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Tuition Increase\bin\Debug\Tuition Increase.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Tuition Increase\obj\Debug\Tuition Increase.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Tuition Increase\obj\Debug\Tuition Increase.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Tuition Increase\bin\Debug\Tuition Increase.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Tuition Increase\obj\Debug\Tuition Increase.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Tuition Increase\obj\Debug\Tuition Increase.pdb

@@ -1,0 +1,8 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calories Burned\bin\Debug\Calories Burned.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calories Burned\bin\Debug\Calories Burned.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calories Burned\bin\Debug\Calories Burned.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calories Burned\obj\Debug\Calories Burned.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calories Burned\obj\Debug\Calories Burned.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calories Burned\bin\Debug\Calories Burned.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calories Burned\obj\Debug\Calories Burned.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calories Burned\obj\Debug\Calories Burned.pdb

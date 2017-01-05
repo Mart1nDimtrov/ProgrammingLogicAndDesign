@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 07. Word Separator\bin\Debug\Text_Processing___07.Word_Separator.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 07. Word Separator\bin\Debug\Text_Processing___07.Word_Separator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 07. Word Separator\bin\Debug\Text_Processing___07.Word_Separator.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 07. Word Separator\obj\Debug\Text Processing - 07. Word Separator.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 07. Word Separator\obj\Debug\Text_Processing___07.Word_Separator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 07. Word Separator\obj\Debug\Text_Processing___07.Word_Separator.pdb

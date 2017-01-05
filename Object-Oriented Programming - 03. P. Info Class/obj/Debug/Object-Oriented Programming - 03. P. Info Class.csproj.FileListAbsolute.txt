@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 03. P. Info Class\bin\Debug\Object_Oriented_Programming___03.P.Info_Class.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 03. P. Info Class\bin\Debug\Object_Oriented_Programming___03.P.Info_Class.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 03. P. Info Class\bin\Debug\Object_Oriented_Programming___03.P.Info_Class.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 03. P. Info Class\obj\Debug\Object_Oriented_Programming___03.P.Info_Class.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 03. P. Info Class\obj\Debug\Object_Oriented_Programming___03.P.Info_Class.pdb

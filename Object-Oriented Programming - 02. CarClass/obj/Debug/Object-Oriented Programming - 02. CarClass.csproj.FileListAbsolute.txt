@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 02. CarClass\bin\Debug\Object_Oriented_Programming___02.CarClass.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 02. CarClass\bin\Debug\Object_Oriented_Programming___02.CarClass.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 02. CarClass\bin\Debug\Object_Oriented_Programming___02.CarClass.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 02. CarClass\obj\Debug\Object-Oriented Programming - 02. CarClass.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 02. CarClass\obj\Debug\Object_Oriented_Programming___02.CarClass.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Object-Oriented Programming - 02. CarClass\obj\Debug\Object_Oriented_Programming___02.CarClass.pdb

@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Largest and Smallest\bin\Debug\Largest and Smallest.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Largest and Smallest\obj\Debug\Largest and Smallest.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Largest and Smallest\obj\Debug\Largest and Smallest.pdb

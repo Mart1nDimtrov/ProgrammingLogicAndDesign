@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 01. Rectangle Area\bin\Debug\Functions___01.Rectangle_Area.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 01. Rectangle Area\bin\Debug\Functions___01.Rectangle_Area.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 01. Rectangle Area\bin\Debug\Functions___01.Rectangle_Area.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 01. Rectangle Area\obj\Debug\Functions - 01. Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 01. Rectangle Area\obj\Debug\Functions___01.Rectangle_Area.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 01. Rectangle Area\obj\Debug\Functions___01.Rectangle_Area.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Functions - 01. Rectangle Area\bin\Debug\Functions___01.Rectangle_Area.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Functions - 01. Rectangle Area\obj\Debug\Functions___01.Rectangle_Area.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Functions - 01. Rectangle Area\obj\Debug\Functions___01.Rectangle_Area.pdb

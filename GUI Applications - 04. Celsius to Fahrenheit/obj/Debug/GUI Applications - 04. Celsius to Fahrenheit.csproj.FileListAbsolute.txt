@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\bin\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\bin\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\bin\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\obj\Debug\GUI Applications - 04. Celsius to Fahrenheit.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\obj\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.FarhenheitLabel.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\obj\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.Properties.Resources.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\obj\Debug\GUI Applications - 04. Celsius to Fahrenheit.csproj.GenerateResource.Cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\obj\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 04. Celsius to Fahrenheit\obj\Debug\GUI_Applications___04.Celsius_to_Fahrenheit.pdb

@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 05. Recursive Power Method\bin\Debug\Recursion___05.Recursive_Power_Method.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 05. Recursive Power Method\bin\Debug\Recursion___05.Recursive_Power_Method.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 05. Recursive Power Method\bin\Debug\Recursion___05.Recursive_Power_Method.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 05. Recursive Power Method\obj\Debug\Recursion___05.Recursive_Power_Method.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Recursion - 05. Recursive Power Method\obj\Debug\Recursion___05.Recursive_Power_Method.pdb

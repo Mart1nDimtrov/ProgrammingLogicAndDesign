@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 02. Sorted Names\bin\Debug\Sorting___02.Sorted_Names.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 02. Sorted Names\bin\Debug\Sorting___02.Sorted_Names.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 02. Sorted Names\bin\Debug\Sorting___02.Sorted_Names.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 02. Sorted Names\obj\Debug\Sorting - 02. Sorted Names.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 02. Sorted Names\obj\Debug\Sorting___02.Sorted_Names.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 02. Sorted Names\obj\Debug\Sorting___02.Sorted_Names.pdb

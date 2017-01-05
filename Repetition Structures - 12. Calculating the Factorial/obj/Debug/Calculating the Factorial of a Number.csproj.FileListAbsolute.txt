@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calculating the Factorial of a Number\bin\Debug\Calculating the Factorial of a Number.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calculating the Factorial of a Number\bin\Debug\Calculating the Factorial of a Number.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calculating the Factorial of a Number\bin\Debug\Calculating the Factorial of a Number.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calculating the Factorial of a Number\bin\Debug\Calculating the Factorial of a Number.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.pdb

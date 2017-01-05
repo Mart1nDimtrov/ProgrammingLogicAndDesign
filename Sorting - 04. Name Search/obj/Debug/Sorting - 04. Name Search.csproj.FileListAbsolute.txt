@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 04. Name Search\bin\Debug\Sorting___04.Name_Search.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 04. Name Search\bin\Debug\Sorting___04.Name_Search.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 04. Name Search\bin\Debug\Sorting___04.Name_Search.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 04. Name Search\obj\Debug\Sorting - 04. Name Search.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 04. Name Search\obj\Debug\Sorting___04.Name_Search.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 04. Name Search\obj\Debug\Sorting___04.Name_Search.pdb

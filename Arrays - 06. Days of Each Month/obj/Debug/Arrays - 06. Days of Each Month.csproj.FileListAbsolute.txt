@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 06. Days of Each Month\bin\Debug\Arrays___06.Days_of_Each_Month.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 06. Days of Each Month\bin\Debug\Arrays___06.Days_of_Each_Month.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 06. Days of Each Month\bin\Debug\Arrays___06.Days_of_Each_Month.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 06. Days of Each Month\obj\Debug\Arrays___06.Days_of_Each_Month.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 06. Days of Each Month\obj\Debug\Arrays___06.Days_of_Each_Month.pdb

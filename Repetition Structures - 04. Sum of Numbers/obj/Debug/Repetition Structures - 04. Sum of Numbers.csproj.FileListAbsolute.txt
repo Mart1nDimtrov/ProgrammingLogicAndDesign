@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

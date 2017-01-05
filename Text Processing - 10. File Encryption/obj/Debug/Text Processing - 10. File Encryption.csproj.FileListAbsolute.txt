@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 10. File Encryption\bin\Debug\Text_Processing___10.File_Encryption.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 10. File Encryption\bin\Debug\Text_Processing___10.File_Encryption.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 10. File Encryption\bin\Debug\Text_Processing___10.File_Encryption.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 10. File Encryption\obj\Debug\Text Processing - 10. File Encryption.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 10. File Encryption\obj\Debug\Text_Processing___10.File_Encryption.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 10. File Encryption\obj\Debug\Text_Processing___10.File_Encryption.pdb

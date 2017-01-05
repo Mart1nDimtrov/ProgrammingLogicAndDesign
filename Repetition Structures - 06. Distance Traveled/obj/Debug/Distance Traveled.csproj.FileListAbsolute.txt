@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Distance Traveled\bin\Debug\Distance Traveled.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Distance Traveled\bin\Debug\Distance Traveled.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Distance Traveled\bin\Debug\Distance Traveled.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Distance Traveled\obj\Debug\Distance Traveled.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Distance Traveled\obj\Debug\Distance Traveled.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Distance Traveled\obj\Debug\Distance Traveled.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Distance Traveled\bin\Debug\Distance Traveled.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Distance Traveled\obj\Debug\Distance Traveled.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Distance Traveled\obj\Debug\Distance Traveled.pdb

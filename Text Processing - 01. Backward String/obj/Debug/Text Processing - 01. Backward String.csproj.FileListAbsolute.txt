@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 01. Backward String\bin\Debug\Text_Processing___01.Backward_String.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 01. Backward String\bin\Debug\Text_Processing___01.Backward_String.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 01. Backward String\bin\Debug\Text_Processing___01.Backward_String.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 01. Backward String\obj\Debug\Text Processing - 01. Backward String.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 01. Backward String\obj\Debug\Text_Processing___01.Backward_String.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 01. Backward String\obj\Debug\Text_Processing___01.Backward_String.pdb

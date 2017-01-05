@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 03. Vowels and Consonants\bin\Debug\Text_Processing___03.Vowels_and_Consonants.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 03. Vowels and Consonants\obj\Debug\Text Processing - 03. Vowels and Consonants.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 03. Vowels and Consonants\bin\Debug\Text_Processing___03.Vowels_and_Consonants.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 03. Vowels and Consonants\bin\Debug\Text_Processing___03.Vowels_and_Consonants.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 03. Vowels and Consonants\obj\Debug\Text_Processing___03.Vowels_and_Consonants.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 03. Vowels and Consonants\obj\Debug\Text_Processing___03.Vowels_and_Consonants.pdb

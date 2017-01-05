@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 04. Sum of Digits in a String\bin\Debug\Text_Processing___04.Sum_of_Digits_in_a_String.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 04. Sum of Digits in a String\bin\Debug\Text_Processing___04.Sum_of_Digits_in_a_String.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 04. Sum of Digits in a String\bin\Debug\Text_Processing___04.Sum_of_Digits_in_a_String.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 04. Sum of Digits in a String\obj\Debug\Text_Processing___04.Sum_of_Digits_in_a_String.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 04. Sum of Digits in a String\obj\Debug\Text_Processing___04.Sum_of_Digits_in_a_String.pdb

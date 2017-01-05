@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\bin\Debug\GUI_Applications___02.Latin_Translator.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\bin\Debug\GUI_Applications___02.Latin_Translator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\bin\Debug\GUI_Applications___02.Latin_Translator.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\obj\Debug\GUI Applications - 02. Latin Translator.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\obj\Debug\GUI_Applications___02.Latin_Translator.Form1.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\obj\Debug\GUI_Applications___02.Latin_Translator.Properties.Resources.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\obj\Debug\GUI Applications - 02. Latin Translator.csproj.GenerateResource.Cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\obj\Debug\GUI_Applications___02.Latin_Translator.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 02. Latin Translator\obj\Debug\GUI_Applications___02.Latin_Translator.pdb

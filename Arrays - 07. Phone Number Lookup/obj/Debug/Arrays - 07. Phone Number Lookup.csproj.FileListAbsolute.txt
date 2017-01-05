@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 07. Phone Number Lookup\bin\Debug\Arrays___07.Phone_Number_Lookup.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 07. Phone Number Lookup\bin\Debug\Arrays___07.Phone_Number_Lookup.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 07. Phone Number Lookup\bin\Debug\Arrays___07.Phone_Number_Lookup.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 07. Phone Number Lookup\obj\Debug\Arrays - 07. Phone Number Lookup.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 07. Phone Number Lookup\obj\Debug\Arrays___07.Phone_Number_Lookup.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 07. Phone Number Lookup\obj\Debug\Arrays___07.Phone_Number_Lookup.pdb

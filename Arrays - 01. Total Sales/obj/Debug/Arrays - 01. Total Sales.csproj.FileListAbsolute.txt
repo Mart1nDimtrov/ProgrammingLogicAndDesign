@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 01. Total Sales\bin\Debug\Arrays___01.Total_Sales.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 01. Total Sales\bin\Debug\Arrays___01.Total_Sales.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 01. Total Sales\bin\Debug\Arrays___01.Total_Sales.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 01. Total Sales\obj\Debug\Arrays - 01. Total Sales.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 01. Total Sales\obj\Debug\Arrays___01.Total_Sales.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Arrays - 01. Total Sales\obj\Debug\Arrays___01.Total_Sales.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Arrays - 01. Total Sales\bin\Debug\Arrays___01.Total_Sales.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Arrays - 01. Total Sales\obj\Debug\Arrays___01.Total_Sales.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Arrays - 01. Total Sales\obj\Debug\Arrays___01.Total_Sales.pdb

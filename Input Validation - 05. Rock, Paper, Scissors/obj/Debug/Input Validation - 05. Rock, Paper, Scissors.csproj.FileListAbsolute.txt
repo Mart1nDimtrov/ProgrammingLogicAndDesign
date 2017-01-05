@@ -1,0 +1,5 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 05. Rock, Paper, Scissors\bin\Debug\Input_Validation___05.Rock__Paper__Scissors.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 05. Rock, Paper, Scissors\bin\Debug\Input_Validation___05.Rock__Paper__Scissors.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 05. Rock, Paper, Scissors\bin\Debug\Input_Validation___05.Rock__Paper__Scissors.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 05. Rock, Paper, Scissors\obj\Debug\Input_Validation___05.Rock__Paper__Scissors.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Input Validation - 05. Rock, Paper, Scissors\obj\Debug\Input_Validation___05.Rock__Paper__Scissors.pdb

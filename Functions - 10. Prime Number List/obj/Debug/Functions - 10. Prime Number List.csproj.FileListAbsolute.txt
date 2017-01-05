@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 10. Prime Number List\bin\Debug\Functions___10.Prime_Number_List.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 10. Prime Number List\bin\Debug\Functions___10.Prime_Number_List.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 10. Prime Number List\bin\Debug\Functions___10.Prime_Number_List.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 10. Prime Number List\obj\Debug\Functions - 10. Prime Number List.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 10. Prime Number List\obj\Debug\Functions___10.Prime_Number_List.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 10. Prime Number List\obj\Debug\Functions___10.Prime_Number_List.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 07. Search Benchmarks\bin\Debug\Sorting___07.Search_Benchmarks.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 07. Search Benchmarks\bin\Debug\Sorting___07.Search_Benchmarks.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 07. Search Benchmarks\bin\Debug\Sorting___07.Search_Benchmarks.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 07. Search Benchmarks\obj\Debug\Sorting - 07. Search Benchmarks.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 07. Search Benchmarks\obj\Debug\Sorting___07.Search_Benchmarks.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sorting - 07. Search Benchmarks\obj\Debug\Sorting___07.Search_Benchmarks.pdb

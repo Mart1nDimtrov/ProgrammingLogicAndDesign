@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 08. Pig Latin\bin\Debug\Text_Processing___08.Pig_Latin.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 08. Pig Latin\bin\Debug\Text_Processing___08.Pig_Latin.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 08. Pig Latin\bin\Debug\Text_Processing___08.Pig_Latin.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 08. Pig Latin\obj\Debug\Text Processing - 08. Pig Latin.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 08. Pig Latin\obj\Debug\Text_Processing___08.Pig_Latin.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 08. Pig Latin\obj\Debug\Text_Processing___08.Pig_Latin.pdb

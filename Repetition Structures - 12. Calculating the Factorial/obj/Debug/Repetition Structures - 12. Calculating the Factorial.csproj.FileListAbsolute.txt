@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calculating the Factorial of a Number\bin\Debug\Calculating the Factorial of a Number.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Calculating the Factorial of a Number\obj\Debug\Calculating the Factorial of a Number.pdb

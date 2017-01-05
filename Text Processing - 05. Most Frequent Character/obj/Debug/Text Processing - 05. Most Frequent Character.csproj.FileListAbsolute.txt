@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 05. Most Frequent Character\bin\Debug\Text_Processing___05.Most_Frequent_Character.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 05. Most Frequent Character\bin\Debug\Text_Processing___05.Most_Frequent_Character.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 05. Most Frequent Character\bin\Debug\Text_Processing___05.Most_Frequent_Character.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 05. Most Frequent Character\obj\Debug\Text Processing - 05. Most Frequent Character.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 05. Most Frequent Character\obj\Debug\Text_Processing___05.Most_Frequent_Character.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 05. Most Frequent Character\obj\Debug\Text_Processing___05.Most_Frequent_Character.pdb

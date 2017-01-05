@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 09. Morse Code Converter\bin\Debug\Text_Processing___09.Morse_Code_Converter.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 09. Morse Code Converter\bin\Debug\Text_Processing___09.Morse_Code_Converter.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 09. Morse Code Converter\bin\Debug\Text_Processing___09.Morse_Code_Converter.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 09. Morse Code Converter\obj\Debug\Text Processing - 09. Morse Code Converter.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 09. Morse Code Converter\obj\Debug\Text_Processing___09.Morse_Code_Converter.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 09. Morse Code Converter\obj\Debug\Text_Processing___09.Morse_Code_Converter.pdb

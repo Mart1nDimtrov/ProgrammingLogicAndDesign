@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Average Rainfall\bin\Debug\Average Rainfall.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Average Rainfall\bin\Debug\Average Rainfall.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Average Rainfall\bin\Debug\Average Rainfall.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Average Rainfall\obj\Debug\Average Rainfall.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Average Rainfall\obj\Debug\Average Rainfall.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Average Rainfall\obj\Debug\Average Rainfall.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Average Rainfall\bin\Debug\Average Rainfall.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Average Rainfall\obj\Debug\Average Rainfall.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Average Rainfall\obj\Debug\Average Rainfall.pdb

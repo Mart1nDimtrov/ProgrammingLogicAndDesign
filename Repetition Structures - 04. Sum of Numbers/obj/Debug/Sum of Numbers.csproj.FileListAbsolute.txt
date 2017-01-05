@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sum of Numbers\obj\Debug\Sum of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

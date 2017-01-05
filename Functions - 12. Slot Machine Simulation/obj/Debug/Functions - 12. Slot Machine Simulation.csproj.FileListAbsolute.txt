@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 12. Slot Machine Simulation\bin\Debug\Functions___12.Slot_Machine_Simulation.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 12. Slot Machine Simulation\bin\Debug\Functions___12.Slot_Machine_Simulation.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 12. Slot Machine Simulation\bin\Debug\Functions___12.Slot_Machine_Simulation.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 12. Slot Machine Simulation\obj\Debug\Functions - 12. Slot Machine Simulation.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 12. Slot Machine Simulation\obj\Debug\Functions___12.Slot_Machine_Simulation.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Functions - 12. Slot Machine Simulation\obj\Debug\Functions___12.Slot_Machine_Simulation.pdb

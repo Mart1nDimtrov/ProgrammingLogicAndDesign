@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.pdb

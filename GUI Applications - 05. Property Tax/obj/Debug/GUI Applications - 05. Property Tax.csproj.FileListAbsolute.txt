@@ -1,0 +1,9 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\bin\Debug\GUI_Applications___05.Property_Tax.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\bin\Debug\GUI_Applications___05.Property_Tax.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\bin\Debug\GUI_Applications___05.Property_Tax.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\obj\Debug\GUI Applications - 05. Property Tax.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\obj\Debug\GUI_Applications___05.Property_Tax.AssesmentValueLabel.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\obj\Debug\GUI_Applications___05.Property_Tax.Properties.Resources.resources
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\obj\Debug\GUI Applications - 05. Property Tax.csproj.GenerateResource.Cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\obj\Debug\GUI_Applications___05.Property_Tax.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\GUI Applications - 05. Property Tax\obj\Debug\GUI_Applications___05.Property_Tax.pdb

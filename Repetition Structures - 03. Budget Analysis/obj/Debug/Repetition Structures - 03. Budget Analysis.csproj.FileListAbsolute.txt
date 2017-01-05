@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Budget Analysis\bin\Debug\Budget Analysis.exe.config
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Budget Analysis\obj\Debug\Budget Analysis.exe
+C:\Users\martin\Desktop\ProgrammingLogicAndDesign\Budget Analysis\obj\Debug\Budget Analysis.pdb

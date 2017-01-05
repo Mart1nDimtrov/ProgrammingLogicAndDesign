@@ -1,0 +1,6 @@
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 02. Sentence Capitalizer\bin\Debug\Text_Processing___02.Sentence_Capitalizer.exe.config
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 02. Sentence Capitalizer\bin\Debug\Text_Processing___02.Sentence_Capitalizer.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 02. Sentence Capitalizer\bin\Debug\Text_Processing___02.Sentence_Capitalizer.pdb
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 02. Sentence Capitalizer\obj\Debug\Text Processing - 02. Sentence Capitalizer.csprojResolveAssemblyReference.cache
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 02. Sentence Capitalizer\obj\Debug\Text_Processing___02.Sentence_Capitalizer.exe
+C:\Users\martin\Documents\Visual Studio 2015\Projects\ProgrammingExercises\Text Processing - 02. Sentence Capitalizer\obj\Debug\Text_Processing___02.Sentence_Capitalizer.pdb
